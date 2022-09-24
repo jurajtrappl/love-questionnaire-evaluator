@@ -1,2 +1,2 @@
 # love-questionnaire-evaluator
-Google Forms DAS and STLS questionnaire evaluator written in Python.
+Google Forms **Dyadic Adjustment Scale** and **Sternberg's triangular love scale** evaluator written in Python.
